@@ -1,9 +1,9 @@
 # IsolationForest
 an anomaly detection program which reports top-k anomalies from n d-dimensional
 
-### Research Paper: https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/icdm08b.pdf
+### Based on research paper: https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/icdm08b.pdf
 
-##### INPUT:
+##### INPUT DATA:
 5
 
  12.460574615296045 , -3.728914409816175
